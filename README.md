@@ -6,10 +6,10 @@ for your own protein entries. This file should also serve as an example of gener
 
 ## Installing SurrealDB
 
-See the official SurrealDB (install page)[https://surrealdb.com/install] for instructions for your specific operating system. Once installted, you can see the (getting started)[https://surrealdb.com/docs/surrealdb/introduction/start]
+See the official SurrealDB [install page](https://surrealdb.com/install) for instructions for your specific operating system. Once installted, you can see the [getting started](https://surrealdb.com/docs/surrealdb/introduction/start)
 page for how to start the database.
 
-The import command can be used to build a replica of the database schema, including built in functions, as specified (here)[https://surrealdb.com/docs/surrealdb/cli/import].
+The import command can be used to build a replica of the database schema, including built in functions, as specified [here](https://surrealdb.com/docs/surrealdb/cli/import).
 
 ## Example Notebook
 There is also an example notebook showing how a database with protein entries from the CAFA5 training dataset can be used to enable declarative workflows to rapidly test multiple embeddings and embedding combinations.
