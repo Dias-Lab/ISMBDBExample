@@ -1,0 +1,15 @@
+[deps]
+Arrow = "69666777-d1a9-59fb-9406-91d4454c9d45"
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
+FreqTables = "da1fdf0e-e0ff-5433-a45f-9bb5ff651cb1"
+JSON3 = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
+SurrealDB = "ae60b2e1-f314-4c08-9246-ea19f37a5672"
+cuDNN = "02a925ec-e4fe-4b08-9a7e-0d78e3d38ccd"
+
+[extras]
+CUDA_Runtime_jll = "76a88914-d11a-5bdc-97e0-2f5a05c973a2"
